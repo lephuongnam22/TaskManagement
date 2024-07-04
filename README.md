@@ -1,4 +1,4 @@
-# CandidateBoard
+# Task Management
 The project contain 2 part: API and UI
 [Database](#Database)
 [API](#API)
